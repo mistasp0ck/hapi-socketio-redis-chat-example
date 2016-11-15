@@ -62,7 +62,6 @@ form button {
 .form-wrapper {
   overflow: hidden;
 }
-
   
 /*==============================
   #JOINING-CHAT-STRAPLINE
@@ -101,5 +100,6 @@ form button {
   color: #2c3e50; 
   font-size: 10px; 
 }
+// .time { color: #2c3e50; }
 
 .name { color: #2980b9; }

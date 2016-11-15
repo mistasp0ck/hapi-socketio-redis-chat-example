@@ -23,7 +23,6 @@ $( document ).ready(function() {
     h = leadZero(t.getHours());
     m = leadZero(t.getMinutes());
     s = leadZero(t.getSeconds());
-
     //it is pm if hours from 12 onwards
     s = (h >= 12)? 'pm' : 'am';
 
